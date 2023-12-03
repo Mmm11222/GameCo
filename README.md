@@ -9,8 +9,8 @@ To perform a descriptive analysis of a video game data set to foster a better un
 Data set that covers historical sales of video games (for games that sold more than 100,000 copies) spanning different platforms, genres, and publishing studios. This data was drawn from the website VGChartz
 
 #Tools & Skills
-Excel
-Grouping Data
-Descriptive Analysis
-Data Visualization
-Presentation
+- Excel
+- Grouping Data
+- Descriptive Analysis
+- Data Visualization
+- Presentation
