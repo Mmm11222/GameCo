@@ -5,8 +5,8 @@ A new video game company who wants touse data to inform the development of new g
 To perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market.
 
 # Data
-Data set that covers historical sales of video games (for games that sold more than 100,000 copies) spanning different platforms, genres, and publishing studios. This data was drawn from the website VGChartz
-
+Data set that covers historical sales of video games (for games that sold more than 100,000 copies) spanning different platforms, genres, and publishing studios. This data was drawn from the website <a href="https://www.vgchartz.com/">VGChartz</a>
+ 
 # Tools & Skills
 - Excel
 - Grouping Data
