@@ -13,7 +13,7 @@ GameCo is a new video game developer looking to use data-driven insights to guid
 * **Strategic Thinking:** Translating historical data into actionable business recommendations.
 
 ## 📂 Key Deliverables
-* **[View Final Analysis Presentation (PDF)](GameCo_Analysis_Presentation_ Mafalda_Antunes.pdf)** * *Note: This document contains the full visual breakdown of market trends, regional performance, and final strategic advice for GameCo.*
+* **(GameCo_Analysis_Presentation_ Mafalda_Antunes.pdf)** * *Note: This document contains the full visual breakdown of market trends, regional performance, and final strategic advice for GameCo.*
 
 ## 🚀 Analysis Focus
 * **Market Trends:** Identification of the most profitable genres and platforms over the last decade.
