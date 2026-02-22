@@ -1,15 +1,25 @@
-# GameCo
-A new video game company who wants touse data to inform the development of new games.
+# GameCo: Video Game Market Analysis
+### 📊 Strategic Market Insights & Data Storytelling
 
-# Project Goal
-To perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market.
+---
 
-# Data
-Data set that covers historical sales of video games (for games that sold more than 100,000 copies) spanning different platforms, genres, and publishing studios. This data was drawn from the website <a href="https://www.vgchartz.com/">VGChartz</a>
- 
-# Tools & Skills
-- Excel
-- Grouping Data
-- Descriptive Analysis
-- Data Visualization
-- Presentation
+## 🎯 Project Overview
+GameCo is a new video game developer looking to use data-driven insights to guide their development strategy. This project features a **descriptive analysis** of historical video game sales data to identify high-potential platforms, genres, and regions for future investment.
+
+## 🛠️ Tools & Technical Skills
+* **Data Analysis:** Microsoft Excel (Aggregations, Descriptive Statistics).
+* **Data Visualization:** High-impact charting and visual communication.
+* **Storytelling & Reporting:** Microsoft PowerPoint (Executive Presentation).
+* **Strategic Thinking:** Translating historical data into actionable business recommendations.
+
+## 📂 Key Deliverables
+* **[View Final Analysis Presentation (PDF)](GameCo_Analysis_Presentation_ Mafalda_Antunes.pdf)** * *Note: This document contains the full visual breakdown of market trends, regional performance, and final strategic advice for GameCo.*
+
+## 🚀 Analysis Focus
+* **Market Trends:** Identification of the most profitable genres and platforms over the last decade.
+* **Regional Deep-Dive:** Comparative analysis of sales across North America, Europe, Japan, and Global markets.
+* **Investment Strategy:** Data-backed recommendations on where GameCo should focus its development resources to maximize ROI.
+
+---
+
+*Note: This project was developed as part of a professional Data Analytics certification by CareerFoundry.
